@@ -6,4 +6,3 @@ wordcloud
 pandas
 emoji
 textblob 
-collections
